@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/ucfqhhpl2no62xs5zexcqufq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucfqhhpl2no62xs5zexcqufq" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/ucfqhhpl2no62xs5zexcqufq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucfqhhpl2no62xs5zexcqufq" height="30" width="40" /></a>
 <a href="https://discord.gg/K7YN7xfKUV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="K7YN7xfKUV" height="30" width="40" /></a>
 </p>
 
