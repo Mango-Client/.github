@@ -1,14 +1,12 @@
-<h1 align="center">Hi 👋, We are Mango Client!</h1>
+<h1 align="center">Hi 👋, We are Vultra Client!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mango-client&label=Profile%20views&color=0e75b6&style=flat" alt="mango-client" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mango_client" target="blank"><img src="https://img.shields.io/twitter/follow/mango_client?logo=twitter&style=for-the-badge" alt="mango_client" /></a> </p
   
-- 📫 How to reach us! **github@mangoclient.com**
+- 📫 How to reach us! **gmail**
 
 <h3 align="left">Connect with us!:</h3>
 <p align="left">
-<a href="https://twitter.com/mango_client" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mango_client" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCfQhhpL2no62Xs5ZeXCqUfQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucfqhhpl2no62xs5zexcqufq" height="30" width="40" /></a>
+<a href="https://x.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mango_client" height="30" width="40" /></a>
 <a href="https://discord.gg/K7YN7xfKUV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="K7YN7xfKUV" height="30" width="40" /></a>
 </p>
 
